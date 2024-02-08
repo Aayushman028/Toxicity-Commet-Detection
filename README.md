@@ -1,10 +1,5 @@
 # Toxicity-Commet-Detection
 <br/>
-<p align="center">
-  <h3 align="center">ReadME Generator</h3>
-
-  <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
     <br/>
     <br/>
   </p>
