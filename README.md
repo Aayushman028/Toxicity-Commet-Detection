@@ -1,25 +1,9 @@
 # Toxicity-Commet-Detection
-<br/>
-    <br/>
-    <br/>
-  </p>
-</p>
-
-![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) 
-
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
-
-![Screen Shot](images/screenshot.png)
+<p align="center">
+  <img width="621" alt="logo" src="https://user-images.githubusercontent.com/76659596/105877123-eb112280-5fff-11eb-9425-8432e693f92e.png">
+</p>
 
 This project focuses on developing a toxicity comment detection model based on various parameters. Leveraging TensorFlow, Pandas, Matplotlib, and Scikit-learn, a robust system capable of identifying toxic behavior in online comments has been created.
 
