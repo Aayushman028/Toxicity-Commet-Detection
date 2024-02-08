@@ -2,7 +2,7 @@
 
 ## About The Project
 <p align="center">
-  <img width="621" alt="logo" src="https://i.pinimg.com/736x/34/86/08/3486082dc4d6369663a19728cffaa63f.jpg">
+  <img width="621" alt="logo" src="https://ibb.co/k8X4q0X">
 </p>
 
 This project focuses on developing a toxicity comment detection model based on various parameters. Leveraging TensorFlow, Pandas, Matplotlib, and Scikit-learn, a robust system capable of identifying toxic behavior in online comments has been created.
