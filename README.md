@@ -23,18 +23,24 @@
 
 This project focuses on developing a toxicity comment detection model based on various parameters. Leveraging TensorFlow, Pandas, Matplotlib, and Scikit-learn, a robust system capable of identifying toxic behavior in online comments has been created.
 
-## Built With
+## Dataset
 
-Dataset:
+You can downloaded the dataset from [kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). Use the underlying download link to download the dataset.
 
-The Kaggle Dataset was utilized, consisting of Wikipedia comments labeled by human raters for toxic behavior. The parameters include:
+### Instructions
 
-Toxic
-Severe Toxic
-Obscene
-Threat
-Insult
-Identity Hate
+* Navigate to `data` section
+* In the `Data Explorer`, you will find four separate zip archives to download
+* Download `test.csv.zip`, `test_labels.csv.zip` and `train.csv.zip`
+* Extract the files
+* Copy the CSV files to the `data` directory
+
+The following list enumerates different classes (types) of comments -
+
+| Toxic | Very Toxic | Obscene | Threat | Insult | Hate | Neutral |
+|-------|------------|---------|--------|--------|------|---------|
+
+
 Tools and Technologies:
 
 TensorFlow: Utilized for building and training deep learning models for toxicity detection, specifically employing Long Short-Term Memory (LSTM) networks.
