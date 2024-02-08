@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+glove.840B.300d
+.DS_Store
+Multilingual_Toxic_Coment.ipynb
+*.log
+debug.log
+/debug.log
