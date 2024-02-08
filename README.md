@@ -42,25 +42,11 @@ Enhance model performance to increase accuracy.
 Expand dataset diversity by incorporating data from Twitter and other social media platforms.
 Increase data evaluation by collecting more labeled samples for training.
 
-* []()
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-## Roadmap
-
-Future Improvements:
+## Future Improvements:
 
 Enhance model performance to increase accuracy.
 Expand dataset diversity by incorporating data from Twitter and other social media platforms.
 Increase data evaluation by collecting more labeled samples for training.
-
-### Creating A Pull Request
-
-
 
 ## License
 
@@ -71,9 +57,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 * **Aayushman Sharma** - ** - [Aayushman Sharma](https://github.com/ShaanCoding/) - **
 * **Karuna Gupta** - ** - [Karuna Gupta]() - **
 * **Shubham Kukreti** - ** - [Shubham Kukreti]() - **
-
-## Acknowledgements
-
-* []()
-* [Othneil Drew]()
-* [ImgShields](\)
