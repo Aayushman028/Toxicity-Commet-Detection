@@ -27,21 +27,21 @@ The following list enumerates different classes (types) of comments -
 
 ## Tools and Technologies:
 
-TensorFlow: Utilized for building and training deep learning models for toxicity detection, specifically employing Long Short-Term Memory (LSTM) networks.
-Pandas: Employed for data manipulation and analysis.
-Matplotlib: Utilized for data visualization and analysis.
-Scikit-learn: Used for machine learning algorithms and evaluation metrics.
+* TensorFlow: Utilized for building and training deep learning models for toxicity detection, specifically employing Long Short-Term Memory (LSTM) networks.
+* Pandas: Employed for data manipulation and analysis.
+* Matplotlib: Utilized for data visualization and analysis.
+* Scikit-learn: Used for machine learning algorithms and evaluation metrics.
 
-Key Features:
-Preprocessing: The dataset was cleaned and prepared for modeling.
-Model: LSTM networks were used for classification, with 4 epochs during training.
-Evaluation: The accuracy achieved was 0.480.
+### Key Features:
+* Preprocessing: The dataset was cleaned and prepared for modeling.
+* Model: LSTM networks were used for classification, with 4 epochs during training.
+* Evaluation: The accuracy achieved was 0.480.
 
 ## Future Improvements:
 
-Enhance model performance to increase accuracy.
-Expand dataset diversity by incorporating data from Twitter and other social media platforms.
-Increase data evaluation by collecting more labeled samples for training.
+* Enhance model performance to increase accuracy.
+* Expand dataset diversity by incorporating data from Twitter and other social media platforms.
+* Increase data evaluation by collecting more labeled samples for training.
 
 ## License
 
